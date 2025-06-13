@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMonth", "GetMonth\GetMon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingEnginep", "SortingEnginep\SortingEnginep.csproj", "{36671C3D-88BA-4809-B4E1-A61F7E0DDC60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{FD6B63EC-56E4-49B2-9806-830682874BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{36671C3D-88BA-4809-B4E1-A61F7E0DDC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36671C3D-88BA-4809-B4E1-A61F7E0DDC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36671C3D-88BA-4809-B4E1-A61F7E0DDC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6B63EC-56E4-49B2-9806-830682874BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6B63EC-56E4-49B2-9806-830682874BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6B63EC-56E4-49B2-9806-830682874BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6B63EC-56E4-49B2-9806-830682874BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
